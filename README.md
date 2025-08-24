@@ -1,6 +1,5 @@
-# Call-Centere-Performance-Tracker-
+# Call-Centere-Performance-Tracker
 "Power BI dashboard analyzing Call Center performance with interactive KPIs and insights."
-# Call Center Performance Tracker
 
 Power BI dashboard analyzing **Call Center performance** with interactive KPIs and insights.
 
