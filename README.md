@@ -22,7 +22,9 @@ It focuses on:
 - Filtering by agent, time, and call type  
 
 ## 📷 **Dashboard Screenshot:**
-![Global Super Store Dashboard](Screenshot%202025-08-24%20232728.png)
+![Call Center Dashboard](Screenshot2025-09-01.png)  
+
+
 
 ## 📂 Project Structure
 - **Dataset** – Call center performance data  
