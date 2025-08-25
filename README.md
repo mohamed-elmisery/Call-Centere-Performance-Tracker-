@@ -22,8 +22,7 @@ It focuses on:
 - Filtering by agent, time, and call type  
 
 ## 📷 **Dashboard Screenshot:**
-![Call Center Dashboard](Screenshot 2025-08-24 161609.png)  
-
+![Call Center Dashboard](Screenshot%202025-08-24%20161609.png)
 
 
 ## 📂 Project Structure
