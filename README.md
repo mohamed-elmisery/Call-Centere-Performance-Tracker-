@@ -21,6 +21,9 @@ It focuses on:
 - Easy-to-read KPIs for quick decision-making  
 - Filtering by agent, time, and call type  
 
+## 📷 **Dashboard Screenshot:**
+![Global Super Store Dashboard](Screenshot%202025-08-24%20232728.png)
+
 ## 📂 Project Structure
 - **Dataset** – Call center performance data  
 - **Dashboard** – Power BI .pbix file  
